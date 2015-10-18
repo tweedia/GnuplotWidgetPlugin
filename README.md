@@ -1,0 +1,2 @@
+# GnuplotWidgetPlugin
+Gnuplot on Tweedia
